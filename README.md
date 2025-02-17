@@ -1,1 +1,2 @@
 # Workshop
+Git is cool
